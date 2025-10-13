@@ -51,9 +51,6 @@ This command creates a copy of `.env.example` and names it `.env`, allowing you 
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   └── figures        <- Generated graphics and figures to be used in reporting
 │
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
-│
 └── src                         <- Source code for this project
     │
     ├── __init__.py             <- Makes src a Python module
@@ -75,5 +72,3 @@ This command creates a copy of `.env.example` and names it `.env`, allowing you 
     └── services                <- Service classes to connect with external platforms, tools, or APIs
         └── __init__.py 
 ```
-
---------
